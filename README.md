@@ -1,4 +1,5 @@
 # ddos-cmd
+```
 (SEBAGAI PEMBELAJARAN BUKAN UNTUK DI GUNAKAN TANPA IZIN OLEH PIHAK)
 
 Hai yang baca, biar saya jelaskan DDOS itu DDOS (DISTRIBUTED DENIAL OF SERVICE) merupakan teknik yang melakukan banyak request terhadap server web dan membuat lalu lintas
@@ -38,5 +39,5 @@ zaman sekarang juga keamanan itu sudah canggih seperti firewall bahkan software 
 -MELAKUKAN UJI COBA PADA DDOS / DOS KUNJUNGI WEBSITE KHUSUS RESMI MELAKUKAN HAL INI > dstat.cc 
 -PERINTAH BEKERJA 
 -DDOS KATEGORI PROTOCOL ATTACK
-
+```
 
