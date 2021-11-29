@@ -1,0 +1,2 @@
+# ddos-cmd
+t
